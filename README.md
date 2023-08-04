@@ -5,7 +5,7 @@
 - I am currently on a journey to improve my mental health in addition to applying the things I have learned at University, internship, and in my spare time to get a full-time job in the game development industry.
 - 📫 How to reach me: 
   - Email me at matt@matthewshepherd.co.uk
-  - or get in touch via <a href=https://twitter.com/MatthewShep>@MatthewShep</a> on Twitter (... or is it X now?)
+  - or get in touch via <a href=https://twitter.com/MatthewShep>@MatthewShep</a> on Twitter! (... or is it X now?)
 
 <!---
 MatthewJShepherd/MatthewJShepherd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
